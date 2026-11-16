@@ -1,0 +1,9 @@
+{
+  "esp": true,
+  "radar": true,
+  "diagnostics": true,
+  "show_names": true,
+  "show_distance": true,
+  "radar_range": 100.0,
+  "overlay_opacity": 0.92
+}
